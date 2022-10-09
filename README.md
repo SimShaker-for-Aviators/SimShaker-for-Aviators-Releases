@@ -14,3 +14,6 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
   - Microsoft Flight Simulator X
   - Prepar3D
   - X-Plane 11
+
+## SimShaker Community
+  - Discord: https://discord.gg/jkadGQbNj3
