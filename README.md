@@ -8,7 +8,7 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
   - Gametrix JetSeat 
   - SimShaker JetPad 
   - Realteus ForceFeel 
-  - 1 to 6 bass-shakers (thorough payware addon by Andre - [SimShaker Sound Module](https://simshaker.com/software/general/sound/)) 
+  - 1 to 6 bass-shakers (with the payware addon by Andre - [SimShaker Sound Module](https://simshaker.com/software/general/sound/)) 
 
 ## Supported Games:
   - Microsoft Flight Simulator 2020
@@ -33,4 +33,5 @@ Have a bug or a feature request? Please first search for existing and closed iss
 
 
 ## SimShaker Community
+Get in touch with the developer and users around the world. Discuss ideas, get help and have fun:
   - Discord: https://discord.gg/jkadGQbNj3
