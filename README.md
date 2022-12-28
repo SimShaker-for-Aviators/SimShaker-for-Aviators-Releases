@@ -1,3 +1,5 @@
+<img src=" simshakerForAviatorsLogo_small.png" align="right" />
+
 # SimShaker for Aviators
 
 Provides immersing event-driven tactile force feedback via vibrating pad and bass-shakers.
