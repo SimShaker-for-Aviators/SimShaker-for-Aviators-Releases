@@ -23,5 +23,9 @@ The latest stable version can be downloaded from [/releases/latest](https://gith
 ## Latest beta release
 To get the lastest beta release, go the the [release page](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases) and find the latest *pre-release* version. The file can be found at the bottom of the Changelog in the asses section, it's something like SimShaker.for.Aviators.Beta.Installer.vX.Y.Z.zip.
 
+## Bugs and feature requests
+Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/issues).
+
+
 ## SimShaker Community
   - Discord: https://discord.gg/jkadGQbNj3
