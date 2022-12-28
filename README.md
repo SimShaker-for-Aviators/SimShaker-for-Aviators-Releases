@@ -17,5 +17,11 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
   - Prepar3D
   - X-Plane 11
 
+## Latest stable release
+The latest stable version can be downloaded from [/releases/latest](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/latest)
+
+## Latest beta release
+To get the lastest beta release, go the the [release page](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases) and find the latest *pre-release* version.
+
 ## SimShaker Community
   - Discord: https://discord.gg/jkadGQbNj3
