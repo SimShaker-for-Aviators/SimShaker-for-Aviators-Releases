@@ -18,10 +18,10 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
   - X-Plane 11
 
 ## Latest stable release
-The latest stable version can be downloaded from [/releases/latest](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/latest)
+The latest stable version can be downloaded from [/releases/latest](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/latest). The file can be found at the buttom of the Changelog in the asset section, it's something like SimShaker.for.Aviators.Installer.vX.Y.Z.zip.
 
 ## Latest beta release
-To get the lastest beta release, go the the [release page](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases) and find the latest *pre-release* version.
+To get the lastest beta release, go the the [release page](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases) and find the latest *pre-release* version. The file can be found at the buttom of the Changelog in the asses section, it's something like SimShaker.for.Aviators.Beta.Installer.vX.Y.Z.zip.
 
 ## SimShaker Community
   - Discord: https://discord.gg/jkadGQbNj3
