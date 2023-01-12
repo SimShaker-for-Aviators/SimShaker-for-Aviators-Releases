@@ -21,12 +21,12 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
 
 [![GitHub Latest Release)](https://img.shields.io/github/v/release/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases?logo=github&label=download-latest-stable&)](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/latest)
 
-The file can be found at the bottom of the Changelog in the asset section, it's something like SimShaker.for.Aviators.Installer.vX.Y.Z.zip.
+The file can be found at the bottom of the Changelog in the asset section. You may need to click on that little arrow to unfold the asset section. It's something like SimShaker.for.Aviators.Installer.vX.Y.Z.zip.
 
 ## Latest beta release
 [![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases?include_prereleases&label=download-latest-beta&logo=github)](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/)
 
-The file can be found at the bottom of the Changelog in the asses section, it's something like SimShaker.for.Aviators.Beta.Installer.vX.Y.Z.zip.
+The file can be found at the bottom of the Changelog in the assest section. You may need to click on that little arrow to unfold the asset section. It's something like SimShaker.for.Aviators.Beta.Installer.vX.Y.Z.zip.
 
 ## Update your SimShaker for Aviators installation
 Once you installed a stable or beta version, SSA will automatically check for new releases. This behavior can be disabled in the settings. Please be aware, that you stay in your current track. So if you use the beta, SSA will check for a new beta release, vice versa for stable installations. 
