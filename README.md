@@ -43,3 +43,5 @@ Please contact me on [discord](https://github.com/SimShaker-for-Aviators/SimShak
 ## SimShaker Community
 Get in touch with the developer and users around the world. Discuss ideas, get help and have fun:
   - Discord: https://discord.gg/jkadGQbNj3
+
+![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
