@@ -1,4 +1,4 @@
-<!--- <img src=" simshakerForAviatorsLogo_small.png" align="right" /> --->
+<img src=" simshakerForAviatorsLogo_small.png" align="right" />
 
 # SimShaker for Aviators
 
