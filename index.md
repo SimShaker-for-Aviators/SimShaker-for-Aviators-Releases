@@ -5,7 +5,6 @@ subtitle: Feel the brrrrt!
 ---
 
 Provides immersing event-driven tactile force feedback via vibrating pads and bass-shakers.
-![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
 
 ## Supported Devices:
   - Gametrix JetSeat 
@@ -46,3 +45,5 @@ Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:s
 ## SimShaker Community
 Get in touch with the developer and users around the world. Discuss ideas, get help and have fun:
   - Discord: [https://discord.gg/jkadGQbNj3](https://discord.gg/jkadGQbNj3)
+
+Number of ![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
