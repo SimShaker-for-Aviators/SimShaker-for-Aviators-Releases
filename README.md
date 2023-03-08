@@ -1,3 +1,9 @@
+---
+layout: home
+title: SimShaker for Aviators
+subtitle: Feel the brrrrt!
+---
+
 <img src=" simshakerForAviatorsLogo_small.png" align="right" />
 
 # SimShaker for Aviators
