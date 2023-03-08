@@ -4,11 +4,8 @@ title: SimShaker for Aviators
 subtitle: Feel the brrrrt!
 ---
 
-<img src=" simshakerForAviatorsLogo_small.png" align="right" />
-
-# SimShaker for Aviators
-
-Provides immersing event-driven tactile force feedback via vibrating pad and bass-shakers.
+Provides immersing event-driven tactile force feedback via vibrating pads and bass-shakers.
+![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
 
 ## Supported Devices:
   - Gametrix JetSeat 
@@ -17,10 +14,10 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
   - 1 to 6 bass-shakers (with the payware addon by Andre - [SimShaker Sound Module](https://simshaker.com/software/general/sound/)) 
 
 ## Supported Games:
-  - Microsoft Flight Simulator 2020
-  - DCS World
-  - Microsoft Flight Simulator X
+  - Microsoft Flight Simulator 2020 (currently legacy Simconnect)
+  - DCS World & MCS
   - Prepar3D
+  - Microsoft Flight Simulator X
   - X-Plane 11
 
 ## Latest stable release
@@ -48,6 +45,4 @@ Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:s
 
 ## SimShaker Community
 Get in touch with the developer and users around the world. Discuss ideas, get help and have fun:
-  - Discord: https://discord.gg/jkadGQbNj3
-
-![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
+  - Discord: [https://discord.gg/jkadGQbNj3](https://discord.gg/jkadGQbNj3)
