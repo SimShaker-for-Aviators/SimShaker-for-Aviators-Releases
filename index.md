@@ -38,7 +38,7 @@ Once you installed a stable or beta version, SSA will automatically check for ne
 Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/issues).
 
 ## Support the project
-If you like to support the project please contact me on [discord](https://discord.gg/jkadGQbNj3) or mail (simshakerforaviators@gmail.com)
+If you like to support the project please contact me on [discord](https://discord.gg/jkadGQbNj3) or mail [simshakerforaviators@gmail.com](mailto:simshakerforaviators@gmail.com)
 
 ## I'm a sim addon developer and like to improve the SSA integration for my module
 Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:simshakerforaviators@gmail.com)
