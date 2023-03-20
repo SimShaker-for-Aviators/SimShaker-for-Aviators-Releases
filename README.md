@@ -53,4 +53,4 @@ Get in touch with the developer and users around the world. Discuss ideas, get h
 ![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
 
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script src="js/latest-release.js"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/latest-release.js"></script>
