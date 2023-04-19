@@ -24,7 +24,7 @@ Provides immersing event-driven tactile force feedback via vibrating pad and bas
 The file can be found at the bottom of the Changelog in the asset section. You may need to click on that little arrow to unfold the asset section. It's something like SimShaker.for.Aviators.Installer.vX.Y.Z.zip.
 
 ## Latest beta release
-[![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases??include_prereleases&label=download-latest-beta&sort=semver)](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/tag/beta-2.6.1)
+[![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases??include_prereleases&label=download-latest-beta&sort=semver)](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/tag/beta-2.6.2)
 
 The file can be found at the bottom of the Changelog in the assest section. You may need to click on that little arrow to unfold the asset section. It's something like SimShaker.for.Aviators.Beta.Installer.vX.Y.Z.zip.
 
