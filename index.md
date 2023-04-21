@@ -21,14 +21,13 @@ Provides immersing event-driven tactile force feedback via vibrating pads and ba
 
 ## Latest stable release
 
-[![GitHub Latest Release)](https://img.shields.io/github/v/release/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases?logo=github&label=download-latest-stable&)](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/latest)
-
-The file can be found at the bottom of the Changelog in the asset section. You may need to click on that little arrow to unfold the asset section. It's something like SimShaker.for.Aviators.Installer.vX.Y.Z.zip.
+<button id="stable-download-button" disabled>Download</button>
+<div id="stable-release-info"></div>
 
 ## Latest beta release
-[![GitHub Latest Pre-Release)](https://img.shields.io/github/v/release/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases??include_prereleases&label=download-latest-beta&sort=semver)](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/releases/tag/beta-2.6.1)
 
-The file can be found at the bottom of the Changelog in the assest section. You may need to click on that little arrow to unfold the asset section. It's something like SimShaker.for.Aviators.Beta.Installer.vX.Y.Z.zip.
+<button id="beta-download-button" disabled>Download</button>
+<div id="beta-release-info"></div>
 
 ## Update your SimShaker for Aviators installation
 Once you installed a stable or beta version, SSA will automatically check for new releases. This behavior can be disabled in the settings. Please be aware, that you stay in your current track. So if you use the beta, SSA will check for a new beta release, vice versa for stable installations. 
@@ -47,3 +46,6 @@ Get in touch with the developer and users around the world. Discuss ideas, get h
   - Discord: [https://discord.gg/jkadGQbNj3](https://discord.gg/jkadGQbNj3)
 
 Number of ![GitHub all releases](https://img.shields.io/github/downloads/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/total)
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="assets/js/latest-release.js"></script>
