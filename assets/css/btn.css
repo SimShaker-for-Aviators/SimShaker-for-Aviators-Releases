@@ -6,6 +6,81 @@
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  /*display: inline-block;*/
   font-size: 16px;
+  display: block;
+  margin: auto;
 }
+
+.download-area {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+ /* The Modal (background) */
+ .modal {
+   display: none;
+   /* Hidden by default */
+   position: fixed;
+   /* Stay in place */
+   z-index: 1;
+   /* Sit on top */
+   left: 0;
+   top: 0;
+   width: 100%;
+   /* Full width */
+   height: 100%;
+   /* Full height */
+   overflow: auto;
+   /* Enable scroll if needed */
+   background-color: rgb(0, 0, 0);
+   /* Fallback color */
+   background-color: rgba(0, 0, 0, 0.4);
+   /* Black w/ opacity */
+ }
+
+ /* Modal Content/Box */
+ .my-modal-content {
+   background-color: #fefefe;
+   margin: 15% auto;
+   /* 15% from the top and centered */
+   padding: 20px;
+   border: 1px solid #888;
+   width: 80%;
+   /* Could be more or less, depending on screen size */
+ }
+
+ /* Modal Header */
+ .my-modal-header {
+   padding: 2px 16px;
+   background-color: #EAEAEA;
+   color: #404040;
+ }
+
+ /* Modal Body */
+ .my-modal-body {
+   padding: 2px 16px;
+ }
+
+ /* Modal Footer */
+ .my-modal-footer {
+   padding: 2px 16px;
+   background-color: #EAEAEA;
+   color: #404040;
+ }
+
+ /* The Close Button */
+ .close-modal {
+   color: #404040;
+   float: right;
+   font-size: 28px;
+   font-weight: bold;
+ }
+
+ .close-modal:hover,
+ .close-modal:focus {
+   color: white;
+   text-decoration: none;
+   cursor: pointer;
+ }

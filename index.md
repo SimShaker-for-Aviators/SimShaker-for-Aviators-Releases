@@ -23,14 +23,18 @@ Provides immersing event-driven tactile force feedback via vibrating pads and ba
 ## Latest stable release
 Stable releases work flawlessly (&#129310;) and should be used by people who don't like to experiment!
 
-<a id="stable-download-button">Download</a>
-<div id="stable-release-info"></div>
+<div id="stable-download-area">
+  <button id="stable-download-button" class="button" disabled>Download</button>
+  <div id="stable-release-info"></div> 
+</div>
 
 ## Latest beta release
 Beta releases are relaesed more often and include the newest features but may lack of stability.
 
-<a id="beta-download-button">Download</a>
-<div id="beta-release-info"></div>
+<div id="beta-download-area">
+  <button id="beta-download-button" class="button" disabled>Download</button>
+  <div id="beta-release-info"></div>
+</div>
 
 ## Update your SimShaker for Aviators installation
 Once you installed a stable or beta version, SSA will automatically check for new releases. This behavior can be disabled in the settings. Please be aware, that you stay in your current track. So if you use the beta, SSA will check for a new beta release, vice versa for stable installations. 
