@@ -19,6 +19,7 @@ async function getLatestRelease(owner, repo, tagNamePrefix) {
     <details>
       <summary>Show release notes</summary>
       ${releaseNotesHtml}
+      <hr>
     </details>
   `;
   return `
@@ -33,13 +34,8 @@ async function updateReleaseInfo(releaseType, releaseInfoDiv, downloadButton) {
 
     releaseInfoDiv.innerHTML = releaseNotesContent;
     downloadButton.href = latestRelease.assets[0].browser_download_url;
-    downloadButton.disabled = false;
     downloadButton.innerHTML = `Download ${latestRelease.tag_name}`;
-    downloadButton.onclick = function () {
-      window.location.href = latestRelease.assets[0].browser_download_url;
-    };
 
-    
   } catch (error) {
     releaseInfoDiv.innerHTML = error.message;
   }
