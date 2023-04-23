@@ -18,7 +18,7 @@ Provides immersing event-driven tactile force feedback via vibrating pads and ba
   - DCS World & MCS
   - Prepar3D
   - Microsoft Flight Simulator X
-  - X-Plane 11
+  - X-Plane 11 and 12
 
 ## Latest stable release
 Stable releases work flawlessly (&#129310;) and should be used by people who don't like to experiment!
