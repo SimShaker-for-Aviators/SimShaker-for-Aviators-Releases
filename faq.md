@@ -1,0 +1,17 @@
+---
+layout: home
+title: SimShaker for Aviators
+subtitle: Feel the brrrrt!
+css: "/assets/css/btn.css"
+---
+
+If your question is not answered, please contact me.
+
+## Q: Which network ports uses SSA?
+**A:** SSA uses Port **29375 (UDP)** and **12842 (TCP)** to communicate with DCS lua files. For MSFS/FSX is uses SimConnect and for XPlane 11/12 **54930**.
+
+## Q: Are DCS mod supported by SSA?
+**A:** Currently, only official DCS models are supported by DCS.
+
+## Q: A specifiy model/plane/helicopter is not well supported, why?
+**A:** Usually I need to buy these models to improve the support. Since this is a hobby project, my budget is very limited. 

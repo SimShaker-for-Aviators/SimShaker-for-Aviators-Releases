@@ -48,6 +48,9 @@ If you like to support the project please contact me on [discord](https://discor
 ## I'm a sim addon developer and like to improve the SSA integration for my module
 Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:simshakerforaviators@gmail.com)
 
+## FAQ
+For more questions and answers check out the [FAQ](faq.md). 
+
 ## SimShaker Community
 Get in touch with the developer and users around the world. Discuss ideas, get help and have fun:
   - Discord: [https://discord.gg/jkadGQbNj3](https://discord.gg/jkadGQbNj3)
