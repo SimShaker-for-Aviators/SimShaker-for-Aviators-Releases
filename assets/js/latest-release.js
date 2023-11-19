@@ -5,7 +5,7 @@ async function getLatestRelease(owner, repo, tagNamePrefix) {
     const data = await response.json();
 
     // Sort the releases by created_at
-    data.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
+    data.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
   
     const betaReleases = data.filter(release => release.tag_name.startsWith(tagNamePrefix));
     if (betaReleases.length > 0) {
