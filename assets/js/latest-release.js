@@ -3,6 +3,9 @@
 async function getLatestRelease(owner, repo, tagNamePrefix) {
     const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/releases`);
     const data = await response.json();
+
+    // Sort the releases by created_at
+    data.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
   
     const betaReleases = data.filter(release => release.tag_name.startsWith(tagNamePrefix));
     if (betaReleases.length > 0) {
