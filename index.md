@@ -11,10 +11,11 @@ Provides immersing event-driven tactile force feedback via vibrating pads and ba
   - Gametrix JetSeat 
   - SimShaker JetPad 
   - Realteus ForceFeel 
-  - 1 to 6 bass-shakers (with the payware addon by Andre - [SimShaker Sound Module](https://simshaker.com/software/general/sound/)) 
+  - (Limited)  Next Level Racing HF8 (supported as ForceFeel)
+  - 1 to 6 bass-shakers (with the payware Sound Module addon by Andre - [SimShaker Sound Module](https://simshaker.com/software/general/sound/)) 
 
 ## Supported Games:
-  - Microsoft Flight Simulator 2020 (currently legacy Simconnect)
+  - Microsoft Flight Simulator 2020
   - DCS World & MCS
   - Prepar3D
   - Microsoft Flight Simulator X
@@ -43,7 +44,7 @@ Once you installed a stable or beta version, SSA will automatically check for ne
 Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/issues).
 
 ## Support the project
-If you like to support the project please contact me on [discord](https://discord.gg/jkadGQbNj3) or mail [simshakerforaviators@gmail.com](mailto:simshakerforaviators@gmail.com)
+If you like to support the project please contact me on [discord](https://discord.gg/jkadGQbNj3) or mail [simshakerforaviators@gmail.com](mailto:simshakerforaviators@gmail.com).
 
 ## I'm a sim addon developer and like to improve the SSA integration for my module
 Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:simshakerforaviators@gmail.com)
