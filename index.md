@@ -5,7 +5,7 @@ subtitle: Feel the brrrrt!
 css: "/assets/css/btn.css"
 ---
 
-Provides immersing event-driven tactile force feedback via vibrating pads and bass-shakers.
+SimShaker for Aviators (SSA) is a software application designed for flight simulation enthusiasts to enhance their immersive experience by providing tactile feedback based on telemetry data. It works by translating various flight events (such as engine vibrations, turbulence, landing impacts, stall warnings, etc.) from flight simulators into physical vibrations or rumble effects, delivered through connected hardware like vibrating pads, bass-shakers, or similar tactile transducers.
 
 ## Supported Devices:
   - Gametrix JetSeat 
@@ -41,13 +41,13 @@ Beta releases are relaesed more often and include the newest features but may la
 Once you installed a stable or beta version, SSA will automatically check for new releases. This behavior can be disabled in the settings. Please be aware, that you stay in your current track. So if you use the beta, SSA will check for a new beta release, vice versa for stable installations. 
 
 ## Bugs and feature requests
-Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/issues).
+Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SimShaker-for-Aviators/SimShaker-for-Aviators-Releases/issues). Alternatively join or Discord community and contact me there.
 
 ## Support the project
 If you like to support the project please contact me on [discord](https://discord.gg/jkadGQbNj3) or mail [simshakerforaviators@gmail.com](mailto:simshakerforaviators@gmail.com).
 
 ## I'm a sim addon developer and like to improve the SSA integration for my module
-Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:simshakerforaviators@gmail.com)
+Please contact me on [discord](https://discord.gg/jkadGQbNj3) or [mail](mailto:simshakerforaviators@gmail.com).
 
 ## FAQ
 For more questions and answers check out the [FAQ](faq.md). 
