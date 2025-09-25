@@ -30,7 +30,7 @@ Stable releases work flawlessly (&#129310;) and should be used by people who don
 </div>
 
 ## Latest beta release
-Beta releases are relaesed more often and include the newest features but may lack of stability.
+Beta releases are released more often and include the newest features but may lack of stability.
 
 <div id="beta-download-area">
   <button id="beta-download-button" class="button" disabled>Download</button>
