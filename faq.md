@@ -35,3 +35,6 @@ If you comment this line out by adding -- in front of it as below:
     --local HFSlfs=require('lfs');dofile(HFSlfs.writedir()..'Scripts/HFSExport.lua')
 ```
 the conflict will be resolved without NLR HFS deletion. 
+
+## Q: Does SSA conflict with Vaicom?
+**A:** You can run both simultaneously; however, we've received reports suggesting that the SimShaker entries in the export.lua file should be placed below the VAICOM entry. If you experience any issues, try manually moving the SimShaker lines below the VAICOM lines in the file.
